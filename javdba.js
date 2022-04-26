@@ -1,3 +1,4 @@
+/*
 [rewrite_local]
 
 #JAV解锁VIP会员
