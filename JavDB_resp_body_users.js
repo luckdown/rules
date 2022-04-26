@@ -23,5 +23,4 @@ body = {
   "action": null
 };
 body = JSON.stringify(body);
-$notification.post('修改body','修改body','body =json');
 $done({body}); 
